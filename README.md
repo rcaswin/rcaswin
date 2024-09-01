@@ -10,8 +10,8 @@ I'm Aswin R C, a final year IT student with a passion for full-stack development
 - 💻 I’m currently expanding my skills and working on various projects involving modern technologies.
 - 🌱 I have a keen interest in learning new technologies and enhancing my skills, particularly in Flutter and web development.
 - 📚 I have done an internship focused on full-stack Java development and participated in the Kumari Hackathon, where I reached the finals.
-- 🛠️ I'm working on various Flutter projects, including a quiz app and features for displaying rooms, ATMs, and restaurants with maps and search functionalities.
-- 🎮 I am also exploring game development with Flutter, creating simple 2D games with animations and timers.
+- 🛠️ I'm working on various Flutter projects, Full Stack Java projects.
+- 🎮 I am also exploring game development with creating simple 2D games with animations and timers.
 
 ## Skills
 
